@@ -1,0 +1,19 @@
+{
+  "name": "uni-shop",
+  "version": "1.0.0",
+  "description": "> 请介绍一下你的项目吧",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@codeup.aliyun.com:63f70b918567621234d90fac/uni-shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@escook/request-miniprogram": "^0.2.1"
+  }
+}
